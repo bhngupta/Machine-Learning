@@ -1,2 +1,2 @@
 # Machine-Learning
-Implementing Machine Learning algorithm from scratch
+📊 Implementing native Machine Learning and Visualization algorithms on popular free datasets
